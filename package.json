@@ -1,0 +1,12 @@
+{
+  "name": "ember-segue-container-component-segues",
+  "version": "1.0.0",
+  "license": "Public domain, MIT",
+  "jspm": {
+    "main": "lib/segues",
+    "buildConfig": {
+      "transpileES6": true,
+      "minify": true
+    }
+  }
+}
